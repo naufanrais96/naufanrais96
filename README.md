@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Naufan!
+- 👋 Hi, I’m Rais!
 - 👀 I’m interested in Data Engineering, Business Intelligence, Data Analyst, and Data Scientist
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m a Business Intelligence Consultant!
+- 🌱 I’m currently learning Data Engineering
+- 💞️ I’m a Data Analyst! 
 - 📫 How to reach me IG : @naufanrais96 Twitter : @naufanrais
 
 <!---
